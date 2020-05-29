@@ -30,3 +30,21 @@ I had to write code to
 
 
 
+Files Used
+The required files are used:
+
+washington.csv
+new_york_city.csv
+chicago.csv
+
+Requirements
+This program was written in Python (version 3.7.1) and relies on the following libraries:
+
+pandas==0.23.4
+numpy==1.15.4
+
+Project 3
+
+This project consisted in using Git and GitHub with a simulated workflow to refactor Project 2.
+
+The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks.
